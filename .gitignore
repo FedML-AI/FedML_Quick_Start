@@ -1,1 +1,9 @@
 .idea
+sanity_check/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+sanity_check/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+sanity_check/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+sanity_check/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+sanity_check/data/FashionMNIST/raw/train-images-idx3-ubyte
+sanity_check/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+sanity_check/data/FashionMNIST/raw/train-labels-idx1-ubyte
+sanity_check/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
